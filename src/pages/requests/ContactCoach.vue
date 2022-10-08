@@ -42,7 +42,7 @@ export default {
 
              });
 
-             this.$router.replace('/');
+             this.$router.replace('/coaches');
         }
 
        
